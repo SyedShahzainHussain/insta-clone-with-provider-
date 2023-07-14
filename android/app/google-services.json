@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747765927016",
+    "project_id": "insta-a0186",
+    "storage_bucket": "insta-a0186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747765927016:android:7c3a4f1496a7b69b4fffdd",
+        "android_client_info": {
+          "package_name": "com.shahzain.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747765927016-46vg758ubibecb25qf7v4dbvb712ine4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtsYYvr5t1Vk9FSmXu5lpK9xbMNMTMH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747765927016-46vg758ubibecb25qf7v4dbvb712ine4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
